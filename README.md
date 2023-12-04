@@ -30,7 +30,8 @@ print("Square root of the number:",newton_method(a))
 
 ## Output:
 
-![Alt text](<Screenshot 2023-12-04 112924.png>)
+![Screenshot 2023-12-04 112924](https://github.com/sasintharparanthaman/Square-root-of-a-number/assets/145743219/f7fc3430-fcf6-4534-afd3-a7376f069f16)
+
 
 
 ## Result:
